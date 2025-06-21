@@ -1,0 +1,34 @@
+body{
+    background-color: #fffdf7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+
+img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.recipe{
+    max-width: 600px;
+    background-color: cornsilk;
+    border-radius: 15px;
+    padding: 20px;
+    
+}
+
+h1{
+    text-align: center;
+    color: #BF3627;
+}
+
+h2{
+    color: #8C41AD;
+}
+
+ul,ol{
+    padding-left: 20px;
+}
